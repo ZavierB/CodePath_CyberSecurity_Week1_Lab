@@ -12,3 +12,10 @@ Insecure Direct Object Reference Challenge 1
 Insecure Direct Object Reference Challenge 2
 
 Insecure Direct Object Reference Bank 
+
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://i.imgur.com/mYNAW3C.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
