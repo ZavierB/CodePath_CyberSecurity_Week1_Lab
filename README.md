@@ -16,8 +16,6 @@ Insecure Direct Object Reference Bank
 
 # Video
 
-<img src='https://imgur.com/aToU0Hu' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-![](Owasp12.gif)
+<img src='https://i.imgur.com/M7xXFkA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
