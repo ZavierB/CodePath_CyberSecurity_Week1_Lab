@@ -18,4 +18,4 @@ Insecure Direct Object Reference Bank
 
 <img src='https://i.imgur.com/M7xXFkA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
