@@ -1,4 +1,4 @@
-# CodePath_Cybersecurity_Week1_Lab
+# OWASP Top 10 CodePath Cybersecurity Week 1 Lab
 CodePath CyberSecurity Week 1 Lab
 # Questions
 HTTP Headers
